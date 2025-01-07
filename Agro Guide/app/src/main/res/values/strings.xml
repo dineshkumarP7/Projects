@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Myproject2</string>
+    <string name="Agri_hub">Agri Hub</string>
+    <string name="home">Home</string>
+    <string name="Setting">Settings</string>
+    <string name="Vegtables">Vegtables</string>
+    <string name="Fruits">Fruits</string>
+    <string name="Flower">Flowers</string>
+    <string name="Oil_Types">Oil_Types</string>
+    <string name="Profile">Profile</string>
+    <string name="Share">Share</string>
+    <string name="Language">Language</string>
+    <string name="Lagout">Lagout</string>
+    <string name="Name">Name</string>
+    <string name="Phone_Number">Phone Number</string>
+    <string name="District">District</string>
+    <string name="Item_Category">Item Category</string>
+    <string name="Upload_Image">Upload Image</string>
+    <string name="Item_Name">Item Name</string>
+    <string name="Price">Price</string>
+    <string name="Unit">Unit</string>
+    <string name="Submit">Submit</string>
+    <string name="price_format">RS: ₹%.2f</string>
+
+
+    <!-- Size Options -->
+    <string-array name="size_options">
+        <item>-Select-</item>
+        <item>Kg</item>
+        <item>Liter</item>
+        <item>Piece</item>
+    </string-array>
+
+    <!-- District Options -->
+    <string-array name="district_options">
+        <item>-Select-</item>
+        <item>Ariyalur</item>
+        <item>Chengalpattu</item>
+        <item>Chennai</item>
+        <item>Coimbatore</item>
+        <item>Cuddalore</item>
+        <item>Dharmapuri</item>
+        <item>Dindigul</item>
+        <item>Erode</item>
+        <item>Kallakurichi</item>
+        <item>Kanchipuram</item>
+        <item>Kanyakumari</item>
+        <item>Karur</item>
+        <item>Krishnagiri</item>
+        <item>Madurai</item>
+        <item>Mayiladuthurai</item>
+        <item>Nagapattinam</item>
+        <item>Namakkal</item>
+        <item>Perambalur</item>
+        <item>Pudukkottai</item>
+        <item>Ramanathapuram</item>
+        <item>Ranipet</item>
+        <item>Salem</item>
+        <item>Sivagangai</item>
+        <item>Tenkasi</item>
+        <item>Thanjavur</item>
+        <item>Theni</item>
+        <item>Thiruvallur</item>
+        <item>Thiruvarur</item>
+        <item>Thoothukudi</item>
+        <item>Tiruchirappalli</item>
+        <item>Tirunelveli</item>
+        <item>Tirupattur</item>
+        <item>Tiruppur</item>
+        <item>Tiruvannamalai</item>
+        <item>Vellore</item>
+        <item>Viluppuram</item>
+        <item>Virudhunagar</item>
+        <item>Nilgiris</item>
+    </string-array>
+
+    <!-- Category Options -->
+    <string-array name="category_options">
+        <item>-Select-</item>
+        <item>காய்கறிகள்</item>
+        <item>பழங்கள்</item>
+        <item>எண்ணெய் வகைகள்</item>
+        <item>மலர்கள்</item>
+    </string-array>
+
+
+
+
+
+</resources>
+

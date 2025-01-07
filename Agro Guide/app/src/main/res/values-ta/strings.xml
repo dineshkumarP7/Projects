@@ -1,0 +1,86 @@
+<resources>
+        <string name="app_name">என் செயலி</string>
+        <string name="Agri_hub">விவசாய மையம்</string>
+        <string name="home">முகப்பு</string>
+        <string name="Setting">அமைப்புகள்</string>
+        <string name="Vegtables">காய்கறிகள்</string>
+        <string name="Fruits">பழங்கள்</string>
+        <string name="Flower">பூக்கள்</string>
+        <string name="Oil_Types">எண்ணெய் வகைகள்</string>
+        <string name="Profile">சுயவிவரம்</string>
+        <string name="Share">பகிர்</string>
+        <string name="Language">மொழி</string>
+        <string name="Lagout">வெளியேறுதல்</string>
+        <string name="Name">பெயர்</string>
+        <string name="Phone_Number">தொலைபேசி எண்</string>
+        <string name="District">மாவட்டம்</string>
+        <string name="Item_Category">பொருளின் வகையைத் தேர்ந்தெடுக்கவும்</string>
+        <string name="Upload_Image">படத்தைப் பதிவேற்றவும்</string>
+        <string name="Item_Name">பொருளின் பெயர்</string>
+        <string name="Price">விலை</string>
+        <string name="Unit"> அளவு </string>
+        <string name="Submit">சமர்ப்பிக்கவும்</string>
+        <string name="price_format">RS: ₹%.2f</string>
+
+
+
+        <!-- Size Options -->
+        <string-array name="size_options">
+                <item>-தேர்வு செய்க-</item>
+                <item>கி.கி</item>
+                <item>லிட்டர்</item>
+                <item>ஒன்று</item>
+        </string-array>
+
+        <!-- District Options -->
+        <string-array name="district_options">
+                <item>-தேர்வு செய்க-</item>
+                <item>அரியலூர்</item>
+                <item>செங்கல்பட்டு</item>
+                <item>சென்னை</item>
+                <item>கோயம்புத்தூர்</item>
+                <item>கடலூர்</item>
+                <item>தர்மபுரி</item>
+                <item>திண்டுக்கல்</item>
+                <item>ஈரோடு</item>
+                <item>கள்ளக்குறிச்சி</item>
+                <item>காஞ்சிபுரம்</item>
+                <item>கன்னியாகுமரி</item>
+                <item>கரூர்</item>
+                <item>கிருஷ்ணகிரி</item>
+                <item>மதுரை</item>
+                <item>மயிலாடுதுறை</item>
+                <item>நாகப்பட்டினம்</item>
+                <item>நாமக்கல்</item>
+                <item>பெரம்பலூர்</item>
+                <item>புதுக்கோட்டை</item>
+                <item>இராமநாதபுரம்</item>
+                <item>ராணிப்பேட்டை</item>
+                <item>சேலம்</item>
+                <item>சிவகங்கை</item>
+                <item>தேன்காசி</item>
+                <item>தஞ்சாவூர்</item>
+                <item>தேனி</item>
+                <item>திருவள்ளூர்</item>
+                <item>திருவாரூர்</item>
+                <item>தூத்துக்குடி</item>
+                <item>திருச்சிராப்பள்ளி</item>
+                <item>திருநெல்வேலி</item>
+                <item>திருப்பத்தூர்</item>
+                <item>திருப்பூர்</item>
+                <item>திருவண்ணாமலை</item>
+                <item>வேலூர்</item>
+                <item>விழுப்புரம்</item>
+                <item>விருதுநகர்</item>
+                <item>நீலகிரி</item>
+        </string-array>
+
+        <string-array name="category_options">
+                <item>-தேர்வு செய்க-</item>
+                <item>காய்கறிகள்</item>
+                <item>பழங்கள்</item>
+                <item>எண்ணெய் வகைகள்</item>
+                <item>மலர்கள்</item>
+        </string-array>
+
+</resources>
